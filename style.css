@@ -1,0 +1,21 @@
+img.recipe-img {
+    width: 800;
+    height: auto;
+    border: 2px solid #000;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    background-color: black;
+}
+
+p, 
+.description, 
+.byline {
+    font-size: 20px;
+}
+
+li {
+    font-size: 18px;
+}
